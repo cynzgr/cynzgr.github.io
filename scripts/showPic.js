@@ -1,4 +1,4 @@
-ndow.onload=preparelinks;
+﻿window.onload=preparelinks;
 function preparelinks(){
  var links=document.getElementsByTagName("a");
  for (var i=0;i<links.length;i++){
